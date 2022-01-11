@@ -129,7 +129,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 logs/
-src/static/upload/
+#src/static/upload/
 .vscode/
 src/tests/forTestHook.py
 src/online_preboot.sh
