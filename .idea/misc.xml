@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (gallery_trident)" project-jdk-type="Python SDK" />
-  <component name="SshConsoleOptionsProvider">
-    <option name="myEncoding" value="UTF-8" />
-    <option name="myConnectionType" value="REMOTE_SDK" />
-    <option name="myConnectionId" value="sshConfig://root@10.190.1.64:22 password/usr/bin/python" />
-  </component>
-</project>
